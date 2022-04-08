@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextoPrincipal">
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="ButtonColorGreen">
+        <item name="android:backgroundTint">@color/green</item>
+    </style>
+
+    <style name="ButtonBorrar">
+        <item name="android:backgroundTint">@color/red</item>
+    </style>
+
+
+</resources>
